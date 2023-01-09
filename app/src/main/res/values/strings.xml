@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">V-Together</string>
+    <string name="NameOfPerson">NameOfPerson</string>
+    <string name="LastMessage">LastMessage</string>
+    <string name="Time">Time</string>
+    <string name="Status">Status</string>
+    <string name="Avatar">Avatar</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item app:showAsAction="always"
+        android:icon="@drawable/morevert"
+        android:title=""
+        >
+        <menu>
+            <item android:title="Logout" app:showAsAction="never" android:icon="@drawable/logout" android:id="@+id/logoutMenu"/>
+            <item android:title="Find Friends" app:showAsAction="never" android:icon="@drawable/frndslogo" android:id="@+id/findfrnds"/>
+            <item android:title="About Me" app:showAsAction="never" android:icon="@drawable/aboutme" android:id="@+id/aboutme"/>
+            <item android:title="Friend Request" app:showAsAction="never" android:icon="@drawable/friendrequest" android:id="@+id/friendsrequest"/>
+        </menu>
+
+    </item>
+</menu>
